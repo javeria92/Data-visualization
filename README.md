@@ -1,2 +1,2 @@
 # Data-visualization
-Plots using saeborn, matplotlib
+Plots using seaborn, matplotlib
